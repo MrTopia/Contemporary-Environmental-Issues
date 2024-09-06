@@ -66,6 +66,17 @@ Climate change, global warming, and acid rain are some of the most pressing envi
 - **Public Policies and Agreements:** International agreements like the Clean Air Act have proven effective in reducing acid rain by setting limits on emissions. Strengthening such policies can further mitigate acid rain.
 - **Reforestation and Liming of Lakes:** Planting trees and adding lime to acidified lakes and soils can help neutralize acidity and restore affected ecosystems.
 
+### Ozone Layer Depletion
+Ozone layer depletion is the reduction of ozone in the Earth's stratosphere, primarily due to human-made chemicals like chlorofluorocarbons (CFCs), halons, and other ozone-depleting substances. These chemicals release chlorine and bromine atoms when broken down by UV radiation, which then destroy ozone molecules. This thinning of the ozone layer increases harmful ultraviolet (UV) radiation reaching Earth, posing risks to human health, ecosystems, and the environment.
+
+**Causes of Ozone Layer Depletion:**
+- **Chlorofluorocarbons (CFCs)**: Used in refrigeration, air conditioning, and aerosol sprays; release chlorine atoms that destroy ozone.
+- **Halons**: Used in fire extinguishers; release bromine atoms that are even more destructive to ozone than chlorine.
+- **Carbon Tetrachloride**: A solvent in industrial applications; contributes to ozone depletion.
+- **Methyl Chloroform**: Used in adhesives and industrial processes; releases ozone-depleting chlorine.
+- **Nitrous Oxide**: Emitted from fertilizers and combustion processes; acts as an ozone-depleting substance.
+- **Natural Causes**: Volcanic eruptions and solar cycles can also affect ozone concentration.
+
 ### Rain Water Harvesting
 
 Rainwater harvesting is a crucial practice in sustainable water management. It involves collecting and storing rainwater from roofs, roads, or other surfaces to be used for various purposes. With depleting groundwater levels and increasing water scarcity, especially in urban areas, rainwater harvesting offers an effective solution. It reduces the dependency on traditional water sources, helps recharge groundwater, and minimizes water runoff, which can cause soil erosion and flooding. Harvested rainwater can be used for gardening, irrigation, flushing toilets, and even drinking after proper treatment. This practice not only conserves water but also promotes self-sufficiency and reduces the burden on municipal water supply systems. Moreover, it is cost-effective and environmentally friendly, making it a valuable tool for communities to ensure a sustainable future. Adopting rainwater harvesting is essential for water conservation and the long-term sustainability of natural water resources.
